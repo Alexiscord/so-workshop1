@@ -19,4 +19,4 @@ Corta descripción de lo realizado en el taller
 
 ## Referencias
 
-Referencias empleadas en el taller.
+https://github.com/ICESI/so-commands/tree/master/centos7
